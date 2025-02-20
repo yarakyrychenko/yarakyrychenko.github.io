@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, <a href='#'>University of Cambirdge</a>. 
+subtitle: PhD Student, University of Cambirdge. 
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
