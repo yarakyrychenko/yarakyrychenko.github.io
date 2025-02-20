@@ -7,10 +7,12 @@ first_name: Yara
 middle_name: 
 last_name: Kyrychenko
 contact_note: >
+  Feel free to contact on anything
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Student
 footer_text: >
-keywords: Responsible-AI# add your own keywords or leave empty
+  Footer 
+keywords: Responsible-AI 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
