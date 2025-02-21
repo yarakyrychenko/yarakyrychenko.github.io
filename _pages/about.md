@@ -27,7 +27,7 @@ latest_posts:
 
 I'm a PhD Candidate and [Gates Scholar](https://www.gatescambridge.org) at the [Cambridge Social Decision-Making Lab](https://www.sdmlab.psychol.cam.ac.uk/staff/yara-kyrychenko), advised by [Sander van der Linden](https://www.sdmlab.psychol.cam.ac.uk/staff/prof-sander-van-der-linden) and [Jon Roozenbeek](https://www.kcl.ac.uk/people/jon-roozenbeek). I combine psychological theory with data and behavioral science methods to study how we can make human-technology interactions more constructive.
 
-I am part of the Alan Turing Institute's Enrichment Scheme, focusing on the social evaluation of large language models. I completed a research internship with Nokia Bell Lab's Responsible AI team, working on Constitutional AI.
+I am part of the Alan Turing Institute's Enrichment Scheme, focusing on the social evaluation of large language models. I completed a research internship with Nokia Bell Labs Responsible AI team, working on Constitutional AI.
 
 I also organize the [Cambridge Social Psychology Seminar Series](https://talks.cam.ac.uk/show/index/9110) and co-manage the CSDM Lab. 
 
