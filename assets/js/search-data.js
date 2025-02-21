@@ -73,7 +73,10 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{
+    },{id: "news-test-your-misinformation-susceptibility-here-yourmist-streamlit-app-it-only-takes-2-minutes",
+          title: 'Test your misinformation susceptibility here: yourmist.streamlit.app (It only takes 2 minutes!).',
+          description: "",
+          section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
