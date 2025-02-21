@@ -31,7 +31,7 @@ I am part of the Alan Turing Institute’s Enrichment Scheme, focusing on the so
 
 I also organize the [Cambridge Social Psychology Seminar Series](https://talks.cam.ac.uk/show/index/9110) and co-manage the CSDM Lab. 
 
-#### More about me
+#### more about me
 
 In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double major in Mathematics (Honors) and Psychology. I was an associate research scientist at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly used data science techniques to study group processes. I'm passionate about advancing and supporting women in science and technology. I write about data science, education, and life on [Medium](https://medium.com/@k.yara). I grew up in Kyiv, Ukraine, and my native languages are Ukrainian and Russian. 
 
