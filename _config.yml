@@ -121,15 +121,6 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@k.yara
-  - name: Natural Language Processing of Conversations in Python with ConvoKit
-    posts:
-      - url: https://medium.com/nyu-ds-review/how-to-do-natural-language-processing-of-conversations-in-python-with-convokit-b95b700b8256
-        published_date: 2022-11-29
-  - name: An actionable guide to supporting women in data science
-    posts:
-      - url: https://medium.com/nyu-ds-review/an-actionable-guide-to-supporting-women-in-data-science-838ca7e11715
-        published_date: 2022-10-04
-
 
 # -----------------------------------------------------------------------------
 # Newsletter
