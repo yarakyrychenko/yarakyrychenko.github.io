@@ -3,11 +3,15 @@
     "name": "Yara Kyrychenko",
     "image": "",
     "email": "yk408@cam.ac.uk",
-    "url": "yarakyrychenko.github.io",
+    "phone": "",
+    "url": "https://yarakyrychenko.github.io",
+    "summary": "",
     "location": {
       "address": "Downing Site",
+      "postalCode": "CB2 1ST",
       "city": "Cambridge",
       "countryCode": "GB",
+      "region": "Cambridgeshire"
     },
   "education": [
     {
@@ -17,7 +21,7 @@
       "area": "Psychology",
       "studyType": "PhD",
       "startDate": "2022-10-01",
-      "endDate": "2026-10-01",
+      "endDate": "2026-10-01"
     },
         {
       "institution": "New York University",
@@ -27,7 +31,9 @@
       "studyType": "BA",
       "startDate": "2018-09-01",
       "endDate": "2022-05-18",
-      "score": "3.95/4.00",
+      "score": "3.95/4.00"
     }
   ]
 }
+
+  
