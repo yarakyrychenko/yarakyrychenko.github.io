@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "news-test-your-misinformation-susceptibility-here-yourmist-streamlit-app-it-only-takes-2-minutes",
           title: 'Test your misinformation susceptibility here: yourmist.streamlit.app (It only takes 2 minutes!).',
           description: "",
