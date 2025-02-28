@@ -1,0 +1,28 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Yara (Yaroslava) Kyrychenko
+    - name: Languages
+      value: English, Ukrainian, Russian
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Psychology
+      institution: University of Cambridge
+      year: 2022-2026
+      description:
+        - Gates Cambridge Scholar
+        - Lab Manager, Cambridge Social Decision-Making Lab 
+        - 2024-2025 Enrichment student at The Alan Turing Institute for data science and AI
+        - title: Supervisors
+          contents:
+            - Sander van der Linden
+            - Jon Roozenbeek
+    - title: BA in Mathematics and Psychology
+      institution: New York University
+      year: 2018-2022
+      description:
+        - Summa cum laude with departmental honors in math (GPA 3.95/4.00)
+        - Women in Science Scholar, Phi Beta Kappa
