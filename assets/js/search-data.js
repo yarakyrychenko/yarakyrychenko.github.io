@@ -26,6 +26,9 @@ ninja.data = [{
         },{id: "news-test-your-misinformation-susceptibility-here-yourmist-streamlit-app-it-only-takes-2-minutes",
           title: 'Test your misinformation susceptibility here: yourmist.streamlit.app (It only takes 2 minutes!).',
           description: "",
+          section: "News",},{id: "news-jon-roozenbeek-and-i-hosted-an-interactive-workshop-amp-amp-discussion-on-misinformation-resilience-at-the-british-academy-late-the-age-of-mistrust",
+          title: 'Jon Roozenbeek and I hosted an interactive workshop &amp;amp;amp; discussion on misinformation resilience...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
