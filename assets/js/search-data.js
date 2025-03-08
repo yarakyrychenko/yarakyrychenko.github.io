@@ -29,6 +29,9 @@ ninja.data = [{
           section: "News",},{id: "news-jon-roozenbeek-and-i-hosted-an-interactive-workshop-amp-amp-discussion-on-misinformation-resilience-at-the-british-academy-late-the-age-of-mistrust",
           title: 'Jon Roozenbeek and I hosted an interactive workshop &amp;amp;amp; discussion on misinformation resilience...',
           description: "",
+          section: "News",},{id: "news-i-spoke-at-the-bennet-institute-for-innovation-and-policy-acceleration-launch-event-on-a-panel-on-how-do-we-control-ai-for-good",
+          title: 'I spoke at the Bennet Institute for Innovation and Policy Acceleration Launch Event...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
