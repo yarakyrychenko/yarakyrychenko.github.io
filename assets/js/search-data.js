@@ -32,9 +32,6 @@ ninja.data = [{
           section: "News",},{id: "news-i-spoke-at-the-bennet-institute-for-innovation-and-policy-acceleration-launch-event-on-a-panel-on-how-do-we-control-ai-for-good",
           title: 'I spoke at the Bennet Institute for Innovation and Policy Acceleration Launch Event...',
           description: "",
-          section: "News",},{id: "news-i-m-volunteering-to-help-organize-ai-uk-march-17-18-say-hi-if-you-re-around",
-          title: 'I’m volunteering to help organize AI UK (March 17-18). Say hi if you’re...',
-          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
