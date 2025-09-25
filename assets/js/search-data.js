@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-spoke-at-the-bennet-institute-for-innovation-and-policy-acceleration-launch-event-on-a-panel-on-how-do-we-control-ai-for-good",
           title: 'I spoke at the Bennet Institute for Innovation and Policy Acceleration Launch Event...',
           description: "",
+          section: "News",},{id: "news-i-participated-in-the-nato-riga-stratcom-dialogue-2025-and-spoke-on-a-panel-about-ai-agents-and-open-source-models-redefining-global-tech-dominance-in-information-environment",
+          title: 'I participated in the NATO Riga StratCom Dialogue 2025 and spoke on a...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
