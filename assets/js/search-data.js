@@ -35,6 +35,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-participated-in-the-nato-riga-stratcom-dialogue-2025-and-spoke-on-a-panel-about-ai-agents-and-open-source-models-redefining-global-tech-dominance-in-information-environment",
           title: 'I participated in the NATO Riga StratCom Dialogue 2025 and spoke on a...',
           description: "",
+          section: "News",},{id: "news-i-am-shortlisted-as-a-finalist-for-the-women-of-the-future-awards-uk-in-the-ai-category",
+          title: 'I am shortlisted as a finalist for the Women of the Future Awards...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
