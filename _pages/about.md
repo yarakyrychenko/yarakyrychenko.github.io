@@ -25,11 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD Candidate and [Gates Scholar](https://www.gatescambridge.org) at the [Cambridge Social Decision-Making Lab](https://www.sdmlab.psychol.cam.ac.uk/staff/yara-kyrychenko), advised by [Sander van der Linden](https://www.sdmlab.psychol.cam.ac.uk/staff/prof-sander-van-der-linden) and [Jon Roozenbeek](https://www.kcl.ac.uk/people/jon-roozenbeek). I combine psychological theory with computer science methods to investigate both **the dangers and the opportunities of social technology**. 
+I'm a PhD Candidate and [Gates Scholar](https://www.gatescambridge.org) at the [Cambridge Social Decision-Making Lab](https://www.sdmlab.psychol.cam.ac.uk/staff/yara-kyrychenko), advised by [Sander van der Linden](https://www.sdmlab.psychol.cam.ac.uk/staff/prof-sander-van-der-linden) and [Jon Roozenbeek](https://www.psychol.cam.ac.uk/staff/dr-jon-roozenbeek). I combine psychological theory with computer science methods to investigate both **the dangers and the opportunities of social technology**. 
 
 I was part of the Alan Turing Institute's Enrichment Scheme, focusing on the social evaluation of large language models. I completed a research internship with Nokia Bell Labs Responsible AI team, working on Constitutional AI.
 
 I also co-organize the [Cambridge Social Psychology Seminar Series](https://talks.cam.ac.uk/show/index/9110) and co-manage the CSDM Lab with [Miriam Remshard](https://www.sdmlab.psychol.cam.ac.uk/staff/miriam-remshard). 
+
+If you are interested in Human–Technology research at Cambridge, here are some colleagues working in the area: [Lucy Cheke](https://www.lcfi.ac.uk/people/lucy-cheke), [Ramit Debnath](https://www.arct.cam.ac.uk/staff/dr-ramit-debnath-mphil-esd-phd-gates-cantab), [Tiancheng Hu](https://tiancheng.hu/), [Harin Lee](https://harinlee.info/), [Jonnie Penn](https://www.jonniepenn.com/), [Katie Seaborn](https://www.cst.cam.ac.uk/people/kas214). I also encourage exploring the work of these Oxford PhD scholars: [Başak Bozkurt](https://www.oii.ox.ac.uk/people/profiles/basak-bozkurt/), [Elisaveta Chernenko](https://www.oii.ox.ac.uk/people/profiles/elizaveta-chernenko/), [Kobi Hackenburg](https://www.kobihackenburg.com/), [Hannah Rose Kirk](https://www.hannahrosekirk.com/).
 
 #### more about me
 
